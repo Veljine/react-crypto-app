@@ -1,4 +1,4 @@
-import {cryptoAssets, cryptoData} from './Data'
+import {cryptoAssets, cryptoData} from './data'
 
 export function fakeFetchCrypto() {
     return new Promise(resolve => {
